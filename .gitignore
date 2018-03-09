@@ -12,6 +12,7 @@
 .project
 .recipe_deps/
 .settings/
+target
 TAGS
 bower_components
 common

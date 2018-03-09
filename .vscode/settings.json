@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "__config": "cpp",
+    "__nullptr": "cpp",
+    "__mutex_base": "cpp",
+    "memory": "cpp"
+  }
+}
